@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Vérification des affiches</title>
+<style>
+  body { font-family: Arial, sans-serif; background: #f8f8f8; margin: 2em; }
+  h1 { text-align: center; color: #333; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 20px; }
+  .card { background: white; padding: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; }
+  .card img { width: 100%; height: 260px; object-fit: cover; border-radius: 8px; }
+  .missing { border: 2px dashed red; }
+  p { font-size: 14px; color: #333; margin-top: 6px; }
+</style>
+</head>
+<body>
+<h1>🖼️ Vérification des affiches locales</h1>
+<div class="grid">
+<div class="card"><img src="assets/covers/60_days_in.jpg" alt="60 Days In"><p>60 Days In</p></div>
+<div class="card"><img src="assets/covers/altered_carbon.jpg" alt="Altered Carbon"><p>Altered Carbon</p></div>
+<div class="card"><img src="assets/covers/beecham_house.jpg" alt="Beecham House"><p>Beecham House</p></div>
+<div class="card"><img src="assets/covers/clarkson_a_la_ferme.jpg" alt="Clarkson à la ferme"><p>Clarkson à la ferme</p></div>
+<div class="card"><img src="assets/covers/c_est_du_gateau_usa_le_grand_defi.jpg" alt="C’est du gâteau ! USA : le grand défi"><p>C’est du gâteau ! USA : le grand défi</p></div>
+<div class="card"><img src="assets/covers/expedition_en_arabie_les_mysteres_d_un_monde_oublie.jpg" alt="Expédition en Arabie, les mystères d’un monde oublié"><p>Expédition en Arabie, les mystères d’un monde oublié</p></div>
+<div class="card"><img src="assets/covers/forecasting_love_and_weather.jpg" alt="Forecasting Love and Weather"><p>Forecasting Love and Weather</p></div>
+<div class="card"><img src="assets/covers/formula_e_driver.jpg" alt="Formula E : Driver"><p>Formula E : Driver</p></div>
+<div class="card"><img src="assets/covers/furioza.jpg" alt="Furioza"><p>Furioza</p></div>
+<div class="card"><img src="assets/covers/furioza_2.jpg" alt="Furioza 2"><p>Furioza 2</p></div>
+<div class="card"><img src="assets/covers/felinomania.jpg" alt="Félinomania"><p>Félinomania</p></div>
+<div class="card"><img src="assets/covers/hartley_curs_a_vifs_2022.jpg" alt="Hartley, cœurs à vifs. 2022"><p>Hartley, cœurs à vifs. 2022</p></div>
+<div class="card"><img src="assets/covers/moi_ilary.jpg" alt="Moi, Ilary"><p>Moi, Ilary</p></div>
+<div class="card"><img src="assets/covers/instant_hotel.jpg" alt="Instant hôtel"><p>Instant hôtel</p></div>
+<div class="card"><img src="assets/covers/jusqu_a_ce_que_la_vie_nous_separe.jpg" alt="Jusqu'à ce que la vie nous sépare"><p>Jusqu'à ce que la vie nous sépare</p></div>
+<div class="card"><img src="assets/covers/la_vague_de_trente_metres.jpg" alt="La vague de trente mètres"><p>La vague de trente mètres</p></div>
+<div class="card"><img src="assets/covers/la_villa_vanderpump.jpg" alt="La villa Vanderpump"><p>La villa Vanderpump</p></div>
+<div class="card"><img src="assets/covers/le_mariage_ou_la_maison.jpg" alt="Le mariage ou la maison ?"><p>Le mariage ou la maison ?</p></div>
+<div class="card"><img src="assets/covers/le_musee_de_l_innocence.jpg" alt="Le musée de l’innocence"><p>Le musée de l’innocence</p></div>
+<div class="card"><img src="assets/covers/le_tailleur.jpg" alt="Le tailleur"><p>Le tailleur</p></div>
+<div class="card"><img src="assets/covers/les_artisans_du_fun.jpg" alt="Les artisans du fun"><p>Les artisans du fun</p></div>
+<div class="card"><img src="assets/covers/les_douze_rendez_vous_de_noel.jpg" alt="Les douze rendez-vous de Noël"><p>Les douze rendez-vous de Noël</p></div>
+<div class="card"><img src="assets/covers/les_naufrages.jpg" alt="Les naufragés"><p>Les naufragés</p></div>
+<div class="card"><img src="assets/covers/les_paquebots_perdus.jpg" alt="Les paquebots perdus"><p>Les paquebots perdus</p></div>
+<div class="card"><img src="assets/covers/love_anarchy.jpg" alt="Love & Anarchy"><p>Love & Anarchy</p></div>
+<div class="card"><img src="assets/covers/mega_decks.jpg" alt="Mega decks"><p>Mega decks</p></div>
+<div class="card"><img src="assets/covers/murs_pour_l_amour.jpg" alt="Mûrs pour l’amour"><p>Mûrs pour l’amour</p></div>
+<div class="card"><img src="assets/covers/pat_patrouille.jpg" alt="Pat’Patrouille"><p>Pat’Patrouille</p></div>
+<div class="card"><img src="assets/covers/race_against_the_virus_hunt_for_a_vaccine.jpg" alt="Race Against the Virus : Hunt for a vaccine"><p>Race Against the Virus : Hunt for a vaccine</p></div>
+<div class="card"><img src="assets/covers/restyle_vinted.jpg" alt="Restyle, Vinted"><p>Restyle, Vinted</p></div>
+<div class="card"><img src="assets/covers/taste_the_nation.jpg" alt="Taste the nation"><p>Taste the nation</p></div>
+<div class="card"><img src="assets/covers/the_merry_gentlemen.jpg" alt="The Merry Gentlemen"><p>The Merry Gentlemen</p></div>
+<div class="card"><img src="assets/covers/the_trust_la_mefiance_est_de_mise.jpg" alt="The trust, la méfiance est de mise"><p>The trust, la méfiance est de mise</p></div>
+<div class="card"><img src="assets/covers/too_hot_to_handle_italie.jpg" alt="Too Hot To Handle, Italie"><p>Too Hot To Handle, Italie</p></div>
+<div class="card"><img src="assets/covers/total_renovation_ma_ville_sur_mesure.jpg" alt="Total rénovation, ma ville sur mesure"><p>Total rénovation, ma ville sur mesure</p></div>
+<div class="card"><img src="assets/covers/un_menu_en_or.jpg" alt="Un menu en or"><p>Un menu en or</p></div>
+<div class="card"><img src="assets/covers/une_femme_kadin.jpg" alt="Une femme (Kadin)"><p>Une femme (Kadin)</p></div>
+<div class="card"><img src="assets/covers/women_of_mafia.jpg" alt="Women of Mafia"><p>Women of Mafia</p></div>
+<div class="card"><img src="assets/covers/lessons_in_chemistry.jpg" alt="Lessons in Chemistry"><p>Lessons in Chemistry</p></div>
+<div class="card"><img src="assets/covers/grease_rise_of_the_pink_ladies.jpg" alt="Grease, Rise of the Pink Ladies"><p>Grease, Rise of the Pink Ladies</p></div>
+<div class="card"><img src="assets/covers/the_game.jpg" alt="The Game"><p>The Game</p></div>
+<div class="card"><img src="assets/covers/tout_ce_que_je_sais_sur_l_amour.jpg" alt="Tout ce que je sais sur l’amour"><p>Tout ce que je sais sur l’amour</p></div>
+<div class="card"><img src="assets/covers/bless_the_harts.jpg" alt="Bless the Harts"><p>Bless the Harts</p></div>
+<div class="card"><img src="assets/covers/the_big_leap.jpg" alt="The Big Leap"><p>The Big Leap</p></div>
+<div class="card"><img src="assets/covers/avengers_fast_forward.jpg" alt="Avengers : Fast forward"><p>Avengers : Fast forward</p></div>
+<div class="card"><img src="assets/covers/magicamper_les_aventures_de_rosie_et_cornelis.jpg" alt="Magicamper : les aventures de Rosie et Cornélis"><p>Magicamper : les aventures de Rosie et Cornélis</p></div>
+<div class="card"><img src="assets/covers/wonderboys.jpg" alt="Wonderboys"><p>Wonderboys</p></div>
+<div class="card"><img src="assets/covers/famous_in_love.jpg" alt="Famous in Love"><p>Famous in Love</p></div>
+<div class="card"><img src="assets/covers/walker_independence.jpg" alt="Walker Independence"><p>Walker Independence</p></div>
+<div class="card"><img src="assets/covers/condor.jpg" alt="Condor"><p>Condor</p></div>
+<div class="card"><img src="assets/covers/le_monde_dans_nos_yeux.jpg" alt="Le monde dans nos yeux"><p>Le monde dans nos yeux</p></div>
+<div class="card"><img src="assets/covers/suzhal.jpg" alt="Suzhal"><p>Suzhal</p></div>
+<div class="card"><img src="assets/covers/four_more_shots_please.jpg" alt="Four More Shots, Please!"><p>Four More Shots, Please!</p></div>
+<div class="card"><img src="assets/covers/l_ete_ou_je_suis_devenue_jolie.jpg" alt="L’été où je suis devenue jolie"><p>L’été où je suis devenue jolie</p></div>
+<div class="card"><img src="assets/covers/holland.jpg" alt="Holland"><p>Holland</p></div>
+<div class="card"><img src="assets/covers/anonyme.jpg" alt="Anonyme"><p>Anonyme</p></div>
+<div class="card"><img src="assets/covers/fallen.jpg" alt="Fallen"><p>Fallen</p></div>
+<div class="card"><img src="assets/covers/hotel_sinestra.jpg" alt="Hôtel Sinestra"><p>Hôtel Sinestra</p></div>
+
+</div>
+<h2 style="text-align:center; margin-top:30px;">✅ 58 affiches trouvées / ❌ 0 manquantes</h2>
+</body>
+</html>

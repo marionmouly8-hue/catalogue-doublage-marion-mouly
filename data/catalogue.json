@@ -1,0 +1,764 @@
+[
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "60 Days In",
+    "episodesTraduits": [
+      "S02E01",
+      "S02E05",
+      "S02E09",
+      "S02E13"
+    ],
+    "dateDiffusion": "Octobre 2020",
+    "coverUrl": "assets/covers/60_days_in.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Altered Carbon",
+    "episodesTraduits": [
+      "S02E04",
+      "S02E07"
+    ],
+    "dateDiffusion": "Décembre 2019",
+    "coverUrl": "assets/covers/altered_carbon.jpg"
+  },
+  {
+    "plateforme": "CHÉRIE 25",
+    "categorie": "Doublage",
+    "titreProgramme": "Beecham House",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E04",
+      "S01E06"
+    ],
+    "dateDiffusion": "Janvier, février 2020",
+    "coverUrl": "assets/covers/beecham_house.jpg"
+  },
+  {
+    "plateforme": "PRIME VIDEO",
+    "categorie": "Voice-over",
+    "titreProgramme": "Clarkson à la ferme",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S01E07",
+      "S02E01",
+      "S02E03",
+      "S02E05",
+      "S02E07",
+      "S03E01",
+      "S03E03",
+      "S03E05",
+      "S03E07",
+      "S04E01",
+      "S04E03",
+      "S04E05",
+      "S04E07"
+    ],
+    "dateDiffusion": "Mars 2021, novembre 2022, mars 2024, mars 2025",
+    "coverUrl": "assets/covers/clarkson_a_la_ferme.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "C’est du gâteau ! USA : le grand défi",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E02",
+      "S01E03"
+    ],
+    "dateDiffusion": "Mai 2023",
+    "coverUrl": "assets/covers/c_est_du_gateau_usa_le_grand_defi.jpg"
+  },
+  {
+    "plateforme": "USHUAÏA",
+    "categorie": "Voice-over",
+    "titreProgramme": "Expédition en Arabie, les mystères d’un monde oublié",
+    "episodesTraduits": [
+      "S01E03",
+      "S01E04"
+    ],
+    "dateDiffusion": "Novembre 2024",
+    "coverUrl": "assets/covers/expedition_en_arabie_les_mysteres_d_un_monde_oublie.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Forecasting Love and Weather",
+    "episodesTraduits": [
+      "S01E03",
+      "S01E07",
+      "S01E11",
+      "S01E15"
+    ],
+    "dateDiffusion": "Avril, mai 2022",
+    "coverUrl": "assets/covers/forecasting_love_and_weather.jpg"
+  },
+  {
+    "plateforme": "PRIME VIDEO",
+    "categorie": "Voice-over",
+    "titreProgramme": "Formula E : Driver",
+    "episodesTraduits": [
+      "S01E04",
+      "S02E02",
+      "S02E04"
+    ],
+    "dateDiffusion": "Mars 2025, novembre 2025",
+    "coverUrl": "assets/covers/formula_e_driver.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Furioza",
+    "episodesTraduits": [
+      "PART 2"
+    ],
+    "dateDiffusion": "Mars 2022",
+    "coverUrl": "assets/covers/furioza.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Furioza 2",
+    "episodesTraduits": [
+      "FILM ENTIER"
+    ],
+    "dateDiffusion": "Juin 2025",
+    "coverUrl": "assets/covers/furioza_2.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Félinomania",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E04",
+      "S01E06"
+    ],
+    "dateDiffusion": "Avril 2021",
+    "coverUrl": "assets/covers/felinomania.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Hartley, cœurs à vifs. 2022",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E05",
+      "S02E02",
+      "S02E05",
+      "S02E08",
+      "S03E03",
+      "S03E06",
+      "S03E08"
+    ],
+    "dateDiffusion": "Juillet 2022, février 2024, août 2025",
+    "coverUrl": "assets/covers/hartley_curs_a_vifs_2022.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Moi, Ilary",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E05"
+    ],
+    "dateDiffusion": "Novembre 2024",
+    "coverUrl": "assets/covers/moi_ilary.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Instant hôtel",
+    "episodesTraduits": [
+      "S02E04"
+    ],
+    "dateDiffusion": "Mai 2019",
+    "coverUrl": "assets/covers/instant_hotel.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Jusqu'à ce que la vie nous sépare",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E02",
+      "S01E05",
+      "S01E06"
+    ],
+    "dateDiffusion": "Octobre 2021",
+    "coverUrl": "assets/covers/jusqu_a_ce_que_la_vie_nous_separe.jpg"
+  },
+  {
+    "plateforme": "HBO",
+    "categorie": "Voice-over",
+    "titreProgramme": "La vague de trente mètres",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E04",
+      "S02E02",
+      "S03E02",
+      "S03E03",
+      "S03E05"
+    ],
+    "dateDiffusion": "Juillet, août 2024",
+    "coverUrl": "assets/covers/la_vague_de_trente_metres.jpg"
+  },
+  {
+    "plateforme": "DISNEY+",
+    "categorie": "Voice-over",
+    "titreProgramme": "La villa Vanderpump",
+    "episodesTraduits": [
+      "S01E03",
+      "S01E08"
+    ],
+    "dateDiffusion": "Février 2024",
+    "coverUrl": "assets/covers/la_villa_vanderpump.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Le mariage ou la maison ?",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S01E07",
+      "S01E09"
+    ],
+    "dateDiffusion": "Décembre 2020",
+    "coverUrl": "assets/covers/le_mariage_ou_la_maison.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Le musée de l’innocence",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E04",
+      "S01E07"
+    ],
+    "dateDiffusion": "Septembre 2025",
+    "coverUrl": "assets/covers/le_musee_de_l_innocence.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Le tailleur",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E04",
+      "S01E06",
+      "S02E02",
+      "S02E04",
+      "S02E06",
+      "S02E08",
+      "S03E02",
+      "S03E04",
+      "S03E07",
+      "S03E08"
+    ],
+    "dateDiffusion": "Septembre 2022, mai 2023, août 2023",
+    "coverUrl": "assets/covers/le_tailleur.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Les artisans du fun",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E06"
+    ],
+    "dateDiffusion": "Décembre 2021",
+    "coverUrl": "assets/covers/les_artisans_du_fun.jpg"
+  },
+  {
+    "plateforme": "TF1",
+    "categorie": "Voice-over",
+    "titreProgramme": "Les douze rendez-vous de Noël",
+    "episodesTraduits": [
+      "S01E04",
+      "S01E09"
+    ],
+    "dateDiffusion": "Novembre 2021",
+    "coverUrl": "assets/covers/les_douze_rendez_vous_de_noel.jpg"
+  },
+  {
+    "plateforme": "PRIME VIDEO",
+    "categorie": "Voice-over",
+    "titreProgramme": "Les naufragés",
+    "episodesTraduits": [
+      "SÉRIE ENTIÈRE"
+    ],
+    "dateDiffusion": "Août, septembre 2020",
+    "coverUrl": "assets/covers/les_naufrages.jpg"
+  },
+  {
+    "plateforme": "DISCOVERY+",
+    "categorie": "Voice-over",
+    "titreProgramme": "Les paquebots perdus",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S02E01",
+      "S02E03",
+      "S02E05"
+    ],
+    "dateDiffusion": "Décembre 2023",
+    "coverUrl": "assets/covers/les_paquebots_perdus.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Love & Anarchy",
+    "episodesTraduits": [
+      "S01E03",
+      "S02E01",
+      "S02E04",
+      "S02E06"
+    ],
+    "dateDiffusion": "Août 2020, mars 2022",
+    "coverUrl": "assets/covers/love_anarchy.jpg"
+  },
+  {
+    "plateforme": "DISCOVERY+",
+    "categorie": "Voice-over",
+    "titreProgramme": "Mega decks",
+    "episodesTraduits": [
+      "S02E03",
+      "S02E05",
+      "S02E06"
+    ],
+    "dateDiffusion": "Octobre 2024",
+    "coverUrl": "assets/covers/mega_decks.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Mûrs pour l’amour",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S01E07"
+    ],
+    "dateDiffusion": "Mai, juillet 2024",
+    "coverUrl": "assets/covers/murs_pour_l_amour.jpg"
+  },
+  {
+    "plateforme": "NICKELODEON",
+    "categorie": "Doublage",
+    "titreProgramme": "Pat’Patrouille",
+    "episodesTraduits": [
+      "LIVRE ENTIER"
+    ],
+    "dateDiffusion": "Juillet 2025",
+    "coverUrl": "assets/covers/pat_patrouille.jpg"
+  },
+  {
+    "plateforme": "BBC",
+    "categorie": "Voice-over",
+    "titreProgramme": "Race Against the Virus : Hunt for a vaccine",
+    "episodesTraduits": [
+      "Part I"
+    ],
+    "dateDiffusion": "Décembre 2020",
+    "coverUrl": "assets/covers/race_against_the_virus_hunt_for_a_vaccine.jpg"
+  },
+  {
+    "plateforme": "M6",
+    "categorie": "Voice-over",
+    "titreProgramme": "Restyle, Vinted",
+    "episodesTraduits": [
+      "SÉRIE ENTIÈRE"
+    ],
+    "dateDiffusion": "Octobre 2025",
+    "coverUrl": "assets/covers/restyle_vinted.jpg"
+  },
+  {
+    "plateforme": "DISNEY+",
+    "categorie": "Voice-over",
+    "titreProgramme": "Taste the nation",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E05"
+    ],
+    "dateDiffusion": "Mars 2021",
+    "coverUrl": "assets/covers/taste_the_nation.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "The Merry Gentlemen",
+    "episodesTraduits": [
+      "FILM ENTIER"
+    ],
+    "dateDiffusion": "Septembre 2024",
+    "coverUrl": "assets/covers/the_merry_gentlemen.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "The trust, la méfiance est de mise",
+    "episodesTraduits": [
+      "S01E05",
+      "S01E06",
+      "S01E07",
+      "S01E08"
+    ],
+    "dateDiffusion": "Décembre 2023",
+    "coverUrl": "assets/covers/the_trust_la_mefiance_est_de_mise.jpg"
+  },
+  {
+    "plateforme": "PRIME VIDEO",
+    "categorie": "Voice-over",
+    "titreProgramme": "Too Hot To Handle, Italie",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S01E07"
+    ],
+    "dateDiffusion": "Décembre 2024",
+    "coverUrl": "assets/covers/too_hot_to_handle_italie.jpg"
+  },
+  {
+    "plateforme": "PRIME VIDEO",
+    "categorie": "Voice-over",
+    "titreProgramme": "Total rénovation, ma ville sur mesure",
+    "episodesTraduits": [
+      "S01E03",
+      "S01E08",
+      "S02E01",
+      "S02E06",
+      "S03E01",
+      "S03E06",
+      "S03E11",
+      "S04E03",
+      "S04E08",
+      "S04E13",
+      "S04E17"
+    ],
+    "dateDiffusion": "Mars, mai 2021",
+    "coverUrl": "assets/covers/total_renovation_ma_ville_sur_mesure.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Voice-over",
+    "titreProgramme": "Un menu en or",
+    "episodesTraduits": [
+      "S02E06"
+    ],
+    "dateDiffusion": "Juillet 2019",
+    "coverUrl": "assets/covers/un_menu_en_or.jpg"
+  },
+  {
+    "plateforme": "M6",
+    "categorie": "Doublage",
+    "titreProgramme": "Une femme (Kadin)",
+    "episodesTraduits": [
+      "E02",
+      "E05",
+      "E08",
+      "E11",
+      "E14",
+      "E17",
+      "E20",
+      "E23",
+      "E26",
+      "E29",
+      "E32"
+    ],
+    "dateDiffusion": "Décembre 2021, avril 2022",
+    "coverUrl": "assets/covers/une_femme_kadin.jpg"
+  },
+  {
+    "plateforme": "NETFLIX",
+    "categorie": "Doublage",
+    "titreProgramme": "Women of Mafia",
+    "episodesTraduits": [
+      "S01E03",
+      "S01E06",
+      "S02E03",
+      "S02E06"
+    ],
+    "dateDiffusion": "Février, mars 2020",
+    "coverUrl": "assets/covers/women_of_mafia.jpg"
+  },
+  {
+    "plateforme": "APPLE TV",
+    "categorie": "Doublage",
+    "titreProgramme": "Lessons in Chemistry",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E06",
+      "S01E08"
+    ],
+    "dateDiffusion": "Juin, juillet 2023",
+    "coverUrl": "assets/covers/lessons_in_chemistry.jpg"
+  },
+  {
+    "plateforme": "PARAMOUNT +",
+    "categorie": "Doublage",
+    "titreProgramme": "Grease, Rise of the Pink Ladies",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E04",
+      "S01E05",
+      "S01E07",
+      "S01E09",
+      "S01E10"
+    ],
+    "dateDiffusion": "Octobre, décembre 2022",
+    "coverUrl": "assets/covers/grease_rise_of_the_pink_ladies.jpg"
+  },
+  {
+    "plateforme": "PARAMOUNT +",
+    "categorie": "Doublage",
+    "titreProgramme": "The Game",
+    "episodesTraduits": [
+      "S01E09",
+      "S02E03",
+      "S02E07"
+    ],
+    "dateDiffusion": "Octobre, décembre 2022",
+    "coverUrl": "assets/covers/the_game.jpg"
+  },
+  {
+    "plateforme": "PARAMOUNT +",
+    "categorie": "Doublage",
+    "titreProgramme": "Tout ce que je sais sur l’amour",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S01E07"
+    ],
+    "dateDiffusion": "Septembre 2023",
+    "coverUrl": "assets/covers/tout_ce_que_je_sais_sur_l_amour.jpg"
+  },
+  {
+    "plateforme": "DISNEY +",
+    "categorie": "Doublage",
+    "titreProgramme": "Bless the Harts",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E02",
+      "S01E03",
+      "S01E04",
+      "S02E02",
+      "S02E06",
+      "S02E12",
+      "S02E16",
+      "S02E18",
+      "S02E19",
+      "S02E21",
+      "S02E22"
+    ],
+    "dateDiffusion": "Janvier, juin 2021",
+    "coverUrl": "assets/covers/bless_the_harts.jpg"
+  },
+  {
+    "plateforme": "DISNEY +",
+    "categorie": "Doublage",
+    "titreProgramme": "The Big Leap",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E03",
+      "S01E05",
+      "S01E09"
+    ],
+    "dateDiffusion": "Novembre 2021",
+    "coverUrl": "assets/covers/the_big_leap.jpg"
+  },
+  {
+    "plateforme": "DISNEY +",
+    "categorie": "Doublage",
+    "titreProgramme": "Avengers : Fast forward",
+    "episodesTraduits": [
+      "E05",
+      "E06",
+      "E07",
+      "E08",
+      "E09",
+      "E10"
+    ],
+    "dateDiffusion": "Septembre 2023",
+    "coverUrl": "assets/covers/avengers_fast_forward.jpg"
+  },
+  {
+    "plateforme": "DISNEY +",
+    "categorie": "Doublage",
+    "titreProgramme": "Magicamper : les aventures de Rosie et Cornélis",
+    "episodesTraduits": [
+      "E01",
+      "E02",
+      "E04",
+      "E05",
+      "E08",
+      "E10",
+      "E12",
+      "E15",
+      "E17",
+      "E20",
+      "E21"
+    ],
+    "dateDiffusion": "Mars, décembre 2024",
+    "coverUrl": "assets/covers/magicamper_les_aventures_de_rosie_et_cornelis.jpg"
+  },
+  {
+    "plateforme": "DISNEY +",
+    "categorie": "Doublage",
+    "titreProgramme": "Wonderboys",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E02",
+      "S01E04"
+    ],
+    "dateDiffusion": "Décembre 2024",
+    "coverUrl": "assets/covers/wonderboys.jpg"
+  },
+  {
+    "plateforme": "WARNER",
+    "categorie": "Doublage",
+    "titreProgramme": "Famous in Love",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E04",
+      "S01E07",
+      "S02E01",
+      "S02E05"
+    ],
+    "dateDiffusion": "Juin, juillet, août 2021",
+    "coverUrl": "assets/covers/famous_in_love.jpg"
+  },
+  {
+    "plateforme": "CBS",
+    "categorie": "Doublage",
+    "titreProgramme": "Walker Independence",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05",
+      "S01E07",
+      "S01E09",
+      "S01E11",
+      "S01E13"
+    ],
+    "dateDiffusion": "Janvier, mars 2023",
+    "coverUrl": "assets/covers/walker_independence.jpg"
+  },
+  {
+    "plateforme": "AMAZON PRIME",
+    "categorie": "Doublage",
+    "titreProgramme": "Condor",
+    "episodesTraduits": [
+      "S02E03"
+    ],
+    "dateDiffusion": "Janvier 2020",
+    "coverUrl": "assets/covers/condor.jpg"
+  },
+  {
+    "plateforme": "AMAZON PRIME",
+    "categorie": "Doublage",
+    "titreProgramme": "Le monde dans nos yeux",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E03",
+      "S01E05"
+    ],
+    "dateDiffusion": "Août, septembre 2021",
+    "coverUrl": "assets/covers/le_monde_dans_nos_yeux.jpg"
+  },
+  {
+    "plateforme": "AMAZON PRIME",
+    "categorie": "Doublage",
+    "titreProgramme": "Suzhal",
+    "episodesTraduits": [
+      "S01E01",
+      "S01E04",
+      "S01E07"
+    ],
+    "dateDiffusion": "Février 2022",
+    "coverUrl": "assets/covers/suzhal.jpg"
+  },
+  {
+    "plateforme": "AMAZON PRIME",
+    "categorie": "Doublage",
+    "titreProgramme": "Four More Shots, Please!",
+    "episodesTraduits": [
+      "S01E03",
+      "S01E07",
+      "S02E03",
+      "S02E09",
+      "S03E03",
+      "S03E09"
+    ],
+    "dateDiffusion": "Juin, août 2022",
+    "coverUrl": "assets/covers/four_more_shots_please.jpg"
+  },
+  {
+    "plateforme": "AMAZON PRIME",
+    "categorie": "Doublage",
+    "titreProgramme": "L’été où je suis devenue jolie",
+    "episodesTraduits": [
+      "S02E07",
+      "S02E08",
+      "S03E03",
+      "S03E06",
+      "S03E09"
+    ],
+    "dateDiffusion": "Avril 2024, avril 2025",
+    "coverUrl": "assets/covers/l_ete_ou_je_suis_devenue_jolie.jpg"
+  },
+  {
+    "plateforme": "AMAZON PRIME",
+    "categorie": "Doublage",
+    "titreProgramme": "Holland",
+    "episodesTraduits": [
+      "FILM ENTIER"
+    ],
+    "dateDiffusion": "Août 2024",
+    "coverUrl": "assets/covers/holland.jpg"
+  },
+  {
+    "plateforme": "CANAL +",
+    "categorie": "Doublage",
+    "titreProgramme": "Anonyme",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E04",
+      "S01E06",
+      "S01E08",
+      "S01E10"
+    ],
+    "dateDiffusion": "Octobre 2023",
+    "coverUrl": "assets/covers/anonyme.jpg"
+  },
+  {
+    "plateforme": "CANAL +",
+    "categorie": "Doublage",
+    "titreProgramme": "Fallen",
+    "episodesTraduits": [
+      "S01E02",
+      "S01E04",
+      "S01E06"
+    ],
+    "dateDiffusion": "Décembre 2023",
+    "coverUrl": "assets/covers/fallen.jpg"
+  },
+  {
+    "plateforme": "CANAL +",
+    "categorie": "Doublage",
+    "titreProgramme": "Hôtel Sinestra",
+    "episodesTraduits": [
+      "FILM ENTIER"
+    ],
+    "dateDiffusion": "Mai 2024",
+    "coverUrl": "assets/covers/hotel_sinestra.jpg"
+  }
+]

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Catalogue VF — Marion Mouly</title>
+  <meta name="description" content="Catalogue VF — Autrice de doublage et de voice-over : séries, films et documentaires traduits par Marion Mouly.">
+  <link rel="preconnect" href="https://api.tvmaze.com">
+  <link rel="preconnect" href="https://itunes.apple.com">
+  <link rel="preconnect" href="https://fr.wikipedia.org">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Catalogue VF — <strong>Marion Mouly</strong></div>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Rechercher un programme…" aria-label="Recherche par titre">
+      <select id="platform">
+        <option value="">Toutes les plateformes</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <template id="card-tpl">
+      <button class="card" aria-haspopup="dialog">
+        <div class="cover-wrap">
+          <img class="cover" alt="" loading="lazy">
+        </div>
+        <div class="meta">
+          <h3 class="title"></h3>
+          <div class="sub">
+            <span class="date"></span>
+          </div>
+        </div>
+      </button>
+    </template>
+  </main>
+
+  <dialog id="modal">
+    <button class="close" aria-label="Fermer">×</button>
+    <div class="modal-body">
+      <img class="modal-cover" alt="" loading="lazy">
+      <div class="modal-content">
+        <h2 class="modal-title"></h2>
+        <p class="modal-line"><strong>Plateforme :</strong> <span class="modal-plat"></span></p>
+        <p class="modal-line"><strong>Catégorie :</strong> <span class="modal-cat"></span></p>
+        <p class="modal-line"><strong>Épisodes traduits :</strong> <span class="modal-eps"></span></p>
+        <p class="modal-line"><strong>Date de diffusion :</strong> <span class="modal-date"></span></p>
+      </div>
+    </div>
+  </dialog>
+
+  <footer class="footer">
+    <p><strong>Marion Mouly</strong> — Autrice de doublage et de voice-over</p>
+    <p>Tél. : <a href="tel:+33666257272">+33 (0)6 66 25 72 72</a> • <a href="mailto:marionmouly8@gmail.com">marionmouly8@gmail.com</a></p>
+    <p><a href="https://www.linkedin.com/in/marion-mouly-52405015a/" target="_blank" rel="noopener">LinkedIn</a> •
+       <a href="https://www.youtube.com/watch?v=jE5qdrAX2U4" target="_blank" rel="noopener">Podcast</a> •
+       <a href="https://www.ataa.fr/annuaire/Marion" target="_blank" rel="noopener">ATAA Big Data</a></p>
+    <p class="muted">Mis à jour le <span id="updated"></span></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
