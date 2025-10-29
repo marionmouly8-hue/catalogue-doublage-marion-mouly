@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "plateforme": "NETFLIX",
     "categorie": "Voice-over",
@@ -10,7 +10,7 @@
       "S02E13"
     ],
     "dateDiffusion": "Octobre 2020",
-    "coverUrl": "assets/covers/60_days_in.jpg"
+    "coverUrl": "assets/covers/60_days_in_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -20,11 +20,11 @@
       "S02E04",
       "S02E07"
     ],
-    "dateDiffusion": "Décembre 2019",
-    "coverUrl": "assets/covers/altered_carbon.jpg"
+    "dateDiffusion": "DÃ©cembre 2019",
+    "coverUrl": "assets/covers/altered_carbon_v2.jpg"
   },
   {
-    "plateforme": "CHÉRIE 25",
+    "plateforme": "CHÃ‰RIE 25",
     "categorie": "Doublage",
     "titreProgramme": "Beecham House",
     "episodesTraduits": [
@@ -32,13 +32,13 @@
       "S01E04",
       "S01E06"
     ],
-    "dateDiffusion": "Janvier, février 2020",
-    "coverUrl": "assets/covers/beecham_house.jpg"
+    "dateDiffusion": "Janvier, fÃ©vrier 2020",
+    "coverUrl": "assets/covers/beecham_house_v2.jpg"
   },
   {
     "plateforme": "PRIME VIDEO",
     "categorie": "Voice-over",
-    "titreProgramme": "Clarkson à la ferme",
+    "titreProgramme": "Clarkson Ã  la ferme",
     "episodesTraduits": [
       "S01E01",
       "S01E03",
@@ -58,30 +58,30 @@
       "S04E07"
     ],
     "dateDiffusion": "Mars 2021, novembre 2022, mars 2024, mars 2025",
-    "coverUrl": "assets/covers/clarkson_a_la_ferme.jpg"
+    "coverUrl": "assets/covers/clarkson_a_la_ferme_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Voice-over",
-    "titreProgramme": "C’est du gâteau ! USA : le grand défi",
+    "titreProgramme": "Câ€™est du gÃ¢teau ! USA : le grand dÃ©fi",
     "episodesTraduits": [
       "S01E01",
       "S01E02",
       "S01E03"
     ],
     "dateDiffusion": "Mai 2023",
-    "coverUrl": "assets/covers/c_est_du_gateau_usa_le_grand_defi.jpg"
+    "coverUrl": "assets/covers/c_est_du_gateau_usa_le_grand_defi_v2.jpg"
   },
   {
-    "plateforme": "USHUAÏA",
+    "plateforme": "USHUAÃA",
     "categorie": "Voice-over",
-    "titreProgramme": "Expédition en Arabie, les mystères d’un monde oublié",
+    "titreProgramme": "ExpÃ©dition en Arabie, les mystÃ¨res dâ€™un monde oubliÃ©",
     "episodesTraduits": [
       "S01E03",
       "S01E04"
     ],
     "dateDiffusion": "Novembre 2024",
-    "coverUrl": "assets/covers/expedition_en_arabie_les_mysteres_d_un_monde_oublie.jpg"
+    "coverUrl": "assets/covers/expedition_en_arabie_les_mysteres_d_un_monde_oublie_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -94,7 +94,7 @@
       "S01E15"
     ],
     "dateDiffusion": "Avril, mai 2022",
-    "coverUrl": "assets/covers/forecasting_love_and_weather.jpg"
+    "coverUrl": "assets/covers/forecasting_love_and_weather_v2.jpg"
   },
   {
     "plateforme": "PRIME VIDEO",
@@ -106,7 +106,7 @@
       "S02E04"
     ],
     "dateDiffusion": "Mars 2025, novembre 2025",
-    "coverUrl": "assets/covers/formula_e_driver.jpg"
+    "coverUrl": "assets/covers/formula_e_driver_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -116,7 +116,7 @@
       "PART 2"
     ],
     "dateDiffusion": "Mars 2022",
-    "coverUrl": "assets/covers/furioza.jpg"
+    "coverUrl": "assets/covers/furioza_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -126,24 +126,24 @@
       "FILM ENTIER"
     ],
     "dateDiffusion": "Juin 2025",
-    "coverUrl": "assets/covers/furioza_2.jpg"
+    "coverUrl": "assets/covers/furioza_2_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Voice-over",
-    "titreProgramme": "Félinomania",
+    "titreProgramme": "FÃ©linomania",
     "episodesTraduits": [
       "S01E02",
       "S01E04",
       "S01E06"
     ],
     "dateDiffusion": "Avril 2021",
-    "coverUrl": "assets/covers/felinomania.jpg"
+    "coverUrl": "assets/covers/felinomania_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Doublage",
-    "titreProgramme": "Hartley, cœurs à vifs. 2022",
+    "titreProgramme": "Hartley, cÅ“urs Ã  vifs. 2022",
     "episodesTraduits": [
       "S01E02",
       "S01E05",
@@ -154,8 +154,8 @@
       "S03E06",
       "S03E08"
     ],
-    "dateDiffusion": "Juillet 2022, février 2024, août 2025",
-    "coverUrl": "assets/covers/hartley_curs_a_vifs_2022.jpg"
+    "dateDiffusion": "Juillet 2022, fÃ©vrier 2024, aoÃ»t 2025",
+    "coverUrl": "assets/covers/hartley_curs_a_vifs_2022_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -166,22 +166,22 @@
       "S01E05"
     ],
     "dateDiffusion": "Novembre 2024",
-    "coverUrl": "assets/covers/moi_ilary.jpg"
+    "coverUrl": "assets/covers/moi_ilary_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Voice-over",
-    "titreProgramme": "Instant hôtel",
+    "titreProgramme": "Instant hÃ´tel",
     "episodesTraduits": [
       "S02E04"
     ],
     "dateDiffusion": "Mai 2019",
-    "coverUrl": "assets/covers/instant_hotel.jpg"
+    "coverUrl": "assets/covers/instant_hotel_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Doublage",
-    "titreProgramme": "Jusqu'à ce que la vie nous sépare",
+    "titreProgramme": "Jusqu'Ã  ce que la vie nous sÃ©pare",
     "episodesTraduits": [
       "S01E01",
       "S01E02",
@@ -189,12 +189,12 @@
       "S01E06"
     ],
     "dateDiffusion": "Octobre 2021",
-    "coverUrl": "assets/covers/jusqu_a_ce_que_la_vie_nous_separe.jpg"
+    "coverUrl": "assets/covers/jusqu_a_ce_que_la_vie_nous_separe_v2.jpg"
   },
   {
     "plateforme": "HBO",
     "categorie": "Voice-over",
-    "titreProgramme": "La vague de trente mètres",
+    "titreProgramme": "La vague de trente mÃ¨tres",
     "episodesTraduits": [
       "S01E01",
       "S01E04",
@@ -203,8 +203,8 @@
       "S03E03",
       "S03E05"
     ],
-    "dateDiffusion": "Juillet, août 2024",
-    "coverUrl": "assets/covers/la_vague_de_trente_metres.jpg"
+    "dateDiffusion": "Juillet, aoÃ»t 2024",
+    "coverUrl": "assets/covers/la_vague_de_trente_metres_v2.jpg"
   },
   {
     "plateforme": "DISNEY+",
@@ -214,8 +214,8 @@
       "S01E03",
       "S01E08"
     ],
-    "dateDiffusion": "Février 2024",
-    "coverUrl": "assets/covers/la_villa_vanderpump.jpg"
+    "dateDiffusion": "FÃ©vrier 2024",
+    "coverUrl": "assets/covers/la_villa_vanderpump_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -228,20 +228,20 @@
       "S01E07",
       "S01E09"
     ],
-    "dateDiffusion": "Décembre 2020",
-    "coverUrl": "assets/covers/le_mariage_ou_la_maison.jpg"
+    "dateDiffusion": "DÃ©cembre 2020",
+    "coverUrl": "assets/covers/le_mariage_ou_la_maison_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Doublage",
-    "titreProgramme": "Le musée de l’innocence",
+    "titreProgramme": "Le musÃ©e de lâ€™innocence",
     "episodesTraduits": [
       "S01E01",
       "S01E04",
       "S01E07"
     ],
     "dateDiffusion": "Septembre 2025",
-    "coverUrl": "assets/covers/le_musee_de_l_innocence.jpg"
+    "coverUrl": "assets/covers/le_musee_de_l_innocence_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -260,8 +260,8 @@
       "S03E07",
       "S03E08"
     ],
-    "dateDiffusion": "Septembre 2022, mai 2023, août 2023",
-    "coverUrl": "assets/covers/le_tailleur.jpg"
+    "dateDiffusion": "Septembre 2022, mai 2023, aoÃ»t 2023",
+    "coverUrl": "assets/covers/le_tailleur_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -271,29 +271,29 @@
       "S01E01",
       "S01E06"
     ],
-    "dateDiffusion": "Décembre 2021",
-    "coverUrl": "assets/covers/les_artisans_du_fun.jpg"
+    "dateDiffusion": "DÃ©cembre 2021",
+    "coverUrl": "assets/covers/les_artisans_du_fun_v2.jpg"
   },
   {
     "plateforme": "TF1",
     "categorie": "Voice-over",
-    "titreProgramme": "Les douze rendez-vous de Noël",
+    "titreProgramme": "Les douze rendez-vous de NoÃ«l",
     "episodesTraduits": [
       "S01E04",
       "S01E09"
     ],
     "dateDiffusion": "Novembre 2021",
-    "coverUrl": "assets/covers/les_douze_rendez_vous_de_noel.jpg"
+    "coverUrl": "assets/covers/les_douze_rendez_vous_de_noel_v2.jpg"
   },
   {
     "plateforme": "PRIME VIDEO",
     "categorie": "Voice-over",
-    "titreProgramme": "Les naufragés",
+    "titreProgramme": "Les naufragÃ©s",
     "episodesTraduits": [
-      "SÉRIE ENTIÈRE"
+      "SÃ‰RIE ENTIÃˆRE"
     ],
-    "dateDiffusion": "Août, septembre 2020",
-    "coverUrl": "assets/covers/les_naufrages.jpg"
+    "dateDiffusion": "AoÃ»t, septembre 2020",
+    "coverUrl": "assets/covers/les_naufrages_v2.jpg"
   },
   {
     "plateforme": "DISCOVERY+",
@@ -307,8 +307,8 @@
       "S02E03",
       "S02E05"
     ],
-    "dateDiffusion": "Décembre 2023",
-    "coverUrl": "assets/covers/les_paquebots_perdus.jpg"
+    "dateDiffusion": "DÃ©cembre 2023",
+    "coverUrl": "assets/covers/les_paquebots_perdus_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -320,8 +320,8 @@
       "S02E04",
       "S02E06"
     ],
-    "dateDiffusion": "Août 2020, mars 2022",
-    "coverUrl": "assets/covers/love_anarchy.jpg"
+    "dateDiffusion": "AoÃ»t 2020, mars 2022",
+    "coverUrl": "assets/covers/love_anarchy_v2.jpg"
   },
   {
     "plateforme": "DISCOVERY+",
@@ -333,12 +333,12 @@
       "S02E06"
     ],
     "dateDiffusion": "Octobre 2024",
-    "coverUrl": "assets/covers/mega_decks.jpg"
+    "coverUrl": "assets/covers/mega_decks_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Voice-over",
-    "titreProgramme": "Mûrs pour l’amour",
+    "titreProgramme": "MÃ»rs pour lâ€™amour",
     "episodesTraduits": [
       "S01E01",
       "S01E03",
@@ -346,17 +346,17 @@
       "S01E07"
     ],
     "dateDiffusion": "Mai, juillet 2024",
-    "coverUrl": "assets/covers/murs_pour_l_amour.jpg"
+    "coverUrl": "assets/covers/murs_pour_l_amour_v2.jpg"
   },
   {
     "plateforme": "NICKELODEON",
     "categorie": "Doublage",
-    "titreProgramme": "Pat’Patrouille",
+    "titreProgramme": "Patâ€™Patrouille",
     "episodesTraduits": [
       "LIVRE ENTIER"
     ],
     "dateDiffusion": "Juillet 2025",
-    "coverUrl": "assets/covers/pat_patrouille.jpg"
+    "coverUrl": "assets/covers/pat_patrouille_v2.jpg"
   },
   {
     "plateforme": "BBC",
@@ -365,18 +365,18 @@
     "episodesTraduits": [
       "Part I"
     ],
-    "dateDiffusion": "Décembre 2020",
-    "coverUrl": "assets/covers/race_against_the_virus_hunt_for_a_vaccine.jpg"
+    "dateDiffusion": "DÃ©cembre 2020",
+    "coverUrl": "assets/covers/race_against_the_virus_hunt_for_a_vaccine_v2.jpg"
   },
   {
     "plateforme": "M6",
     "categorie": "Voice-over",
     "titreProgramme": "Restyle, Vinted",
     "episodesTraduits": [
-      "SÉRIE ENTIÈRE"
+      "SÃ‰RIE ENTIÃˆRE"
     ],
     "dateDiffusion": "Octobre 2025",
-    "coverUrl": "assets/covers/restyle_vinted.jpg"
+    "coverUrl": "assets/covers/restyle_vinted_v2.jpg"
   },
   {
     "plateforme": "DISNEY+",
@@ -387,7 +387,7 @@
       "S01E05"
     ],
     "dateDiffusion": "Mars 2021",
-    "coverUrl": "assets/covers/taste_the_nation.jpg"
+    "coverUrl": "assets/covers/taste_the_nation_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -397,20 +397,20 @@
       "FILM ENTIER"
     ],
     "dateDiffusion": "Septembre 2024",
-    "coverUrl": "assets/covers/the_merry_gentlemen.jpg"
+    "coverUrl": "assets/covers/the_merry_gentlemen_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
     "categorie": "Voice-over",
-    "titreProgramme": "The trust, la méfiance est de mise",
+    "titreProgramme": "The trust, la mÃ©fiance est de mise",
     "episodesTraduits": [
       "S01E05",
       "S01E06",
       "S01E07",
       "S01E08"
     ],
-    "dateDiffusion": "Décembre 2023",
-    "coverUrl": "assets/covers/the_trust_la_mefiance_est_de_mise.jpg"
+    "dateDiffusion": "DÃ©cembre 2023",
+    "coverUrl": "assets/covers/the_trust_la_mefiance_est_de_mise_v2.jpg"
   },
   {
     "plateforme": "PRIME VIDEO",
@@ -422,13 +422,13 @@
       "S01E05",
       "S01E07"
     ],
-    "dateDiffusion": "Décembre 2024",
-    "coverUrl": "assets/covers/too_hot_to_handle_italie.jpg"
+    "dateDiffusion": "DÃ©cembre 2024",
+    "coverUrl": "assets/covers/too_hot_to_handle_italie_v2.jpg"
   },
   {
     "plateforme": "PRIME VIDEO",
     "categorie": "Voice-over",
-    "titreProgramme": "Total rénovation, ma ville sur mesure",
+    "titreProgramme": "Total rÃ©novation, ma ville sur mesure",
     "episodesTraduits": [
       "S01E03",
       "S01E08",
@@ -443,7 +443,7 @@
       "S04E17"
     ],
     "dateDiffusion": "Mars, mai 2021",
-    "coverUrl": "assets/covers/total_renovation_ma_ville_sur_mesure.jpg"
+    "coverUrl": "assets/covers/total_renovation_ma_ville_sur_mesure_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -453,7 +453,7 @@
       "S02E06"
     ],
     "dateDiffusion": "Juillet 2019",
-    "coverUrl": "assets/covers/un_menu_en_or.jpg"
+    "coverUrl": "assets/covers/un_menu_en_or_v2.jpg"
   },
   {
     "plateforme": "M6",
@@ -472,8 +472,8 @@
       "E29",
       "E32"
     ],
-    "dateDiffusion": "Décembre 2021, avril 2022",
-    "coverUrl": "assets/covers/une_femme_kadin.jpg"
+    "dateDiffusion": "DÃ©cembre 2021, avril 2022",
+    "coverUrl": "assets/covers/une_femme_kadin_v2.jpg"
   },
   {
     "plateforme": "NETFLIX",
@@ -485,8 +485,8 @@
       "S02E03",
       "S02E06"
     ],
-    "dateDiffusion": "Février, mars 2020",
-    "coverUrl": "assets/covers/women_of_mafia.jpg"
+    "dateDiffusion": "FÃ©vrier, mars 2020",
+    "coverUrl": "assets/covers/women_of_mafia_v2.jpg"
   },
   {
     "plateforme": "APPLE TV",
@@ -499,7 +499,7 @@
       "S01E08"
     ],
     "dateDiffusion": "Juin, juillet 2023",
-    "coverUrl": "assets/covers/lessons_in_chemistry.jpg"
+    "coverUrl": "assets/covers/lessons_in_chemistry_v2.jpg"
   },
   {
     "plateforme": "PARAMOUNT +",
@@ -513,8 +513,8 @@
       "S01E09",
       "S01E10"
     ],
-    "dateDiffusion": "Octobre, décembre 2022",
-    "coverUrl": "assets/covers/grease_rise_of_the_pink_ladies.jpg"
+    "dateDiffusion": "Octobre, dÃ©cembre 2022",
+    "coverUrl": "assets/covers/grease_rise_of_the_pink_ladies_v2.jpg"
   },
   {
     "plateforme": "PARAMOUNT +",
@@ -525,13 +525,13 @@
       "S02E03",
       "S02E07"
     ],
-    "dateDiffusion": "Octobre, décembre 2022",
-    "coverUrl": "assets/covers/the_game.jpg"
+    "dateDiffusion": "Octobre, dÃ©cembre 2022",
+    "coverUrl": "assets/covers/the_game_v2.jpg"
   },
   {
     "plateforme": "PARAMOUNT +",
     "categorie": "Doublage",
-    "titreProgramme": "Tout ce que je sais sur l’amour",
+    "titreProgramme": "Tout ce que je sais sur lâ€™amour",
     "episodesTraduits": [
       "S01E01",
       "S01E03",
@@ -539,7 +539,7 @@
       "S01E07"
     ],
     "dateDiffusion": "Septembre 2023",
-    "coverUrl": "assets/covers/tout_ce_que_je_sais_sur_l_amour.jpg"
+    "coverUrl": "assets/covers/tout_ce_que_je_sais_sur_l_amour_v2.jpg"
   },
   {
     "plateforme": "DISNEY +",
@@ -560,7 +560,7 @@
       "S02E22"
     ],
     "dateDiffusion": "Janvier, juin 2021",
-    "coverUrl": "assets/covers/bless_the_harts.jpg"
+    "coverUrl": "assets/covers/bless_the_harts_v2.jpg"
   },
   {
     "plateforme": "DISNEY +",
@@ -573,7 +573,7 @@
       "S01E09"
     ],
     "dateDiffusion": "Novembre 2021",
-    "coverUrl": "assets/covers/the_big_leap.jpg"
+    "coverUrl": "assets/covers/the_big_leap_v2.jpg"
   },
   {
     "plateforme": "DISNEY +",
@@ -588,12 +588,12 @@
       "E10"
     ],
     "dateDiffusion": "Septembre 2023",
-    "coverUrl": "assets/covers/avengers_fast_forward.jpg"
+    "coverUrl": "assets/covers/avengers_fast_forward_v2.jpg"
   },
   {
     "plateforme": "DISNEY +",
     "categorie": "Doublage",
-    "titreProgramme": "Magicamper : les aventures de Rosie et Cornélis",
+    "titreProgramme": "Magicamper : les aventures de Rosie et CornÃ©lis",
     "episodesTraduits": [
       "E01",
       "E02",
@@ -607,8 +607,8 @@
       "E20",
       "E21"
     ],
-    "dateDiffusion": "Mars, décembre 2024",
-    "coverUrl": "assets/covers/magicamper_les_aventures_de_rosie_et_cornelis.jpg"
+    "dateDiffusion": "Mars, dÃ©cembre 2024",
+    "coverUrl": "assets/covers/magicamper_les_aventures_de_rosie_et_cornelis_v2.jpg"
   },
   {
     "plateforme": "DISNEY +",
@@ -619,8 +619,8 @@
       "S01E02",
       "S01E04"
     ],
-    "dateDiffusion": "Décembre 2024",
-    "coverUrl": "assets/covers/wonderboys.jpg"
+    "dateDiffusion": "DÃ©cembre 2024",
+    "coverUrl": "assets/covers/wonderboys_v2.jpg"
   },
   {
     "plateforme": "WARNER",
@@ -633,8 +633,8 @@
       "S02E01",
       "S02E05"
     ],
-    "dateDiffusion": "Juin, juillet, août 2021",
-    "coverUrl": "assets/covers/famous_in_love.jpg"
+    "dateDiffusion": "Juin, juillet, aoÃ»t 2021",
+    "coverUrl": "assets/covers/famous_in_love_v2.jpg"
   },
   {
     "plateforme": "CBS",
@@ -650,7 +650,7 @@
       "S01E13"
     ],
     "dateDiffusion": "Janvier, mars 2023",
-    "coverUrl": "assets/covers/walker_independence.jpg"
+    "coverUrl": "assets/covers/walker_independence_v2.jpg"
   },
   {
     "plateforme": "AMAZON PRIME",
@@ -660,7 +660,7 @@
       "S02E03"
     ],
     "dateDiffusion": "Janvier 2020",
-    "coverUrl": "assets/covers/condor.jpg"
+    "coverUrl": "assets/covers/condor_v2.jpg"
   },
   {
     "plateforme": "AMAZON PRIME",
@@ -671,8 +671,8 @@
       "S01E03",
       "S01E05"
     ],
-    "dateDiffusion": "Août, septembre 2021",
-    "coverUrl": "assets/covers/le_monde_dans_nos_yeux.jpg"
+    "dateDiffusion": "AoÃ»t, septembre 2021",
+    "coverUrl": "assets/covers/le_monde_dans_nos_yeux_v2.jpg"
   },
   {
     "plateforme": "AMAZON PRIME",
@@ -683,8 +683,8 @@
       "S01E04",
       "S01E07"
     ],
-    "dateDiffusion": "Février 2022",
-    "coverUrl": "assets/covers/suzhal.jpg"
+    "dateDiffusion": "FÃ©vrier 2022",
+    "coverUrl": "assets/covers/suzhal_v2.jpg"
   },
   {
     "plateforme": "AMAZON PRIME",
@@ -698,13 +698,13 @@
       "S03E03",
       "S03E09"
     ],
-    "dateDiffusion": "Juin, août 2022",
-    "coverUrl": "assets/covers/four_more_shots_please.jpg"
+    "dateDiffusion": "Juin, aoÃ»t 2022",
+    "coverUrl": "assets/covers/four_more_shots_please_v2.jpg"
   },
   {
     "plateforme": "AMAZON PRIME",
     "categorie": "Doublage",
-    "titreProgramme": "L’été où je suis devenue jolie",
+    "titreProgramme": "Lâ€™Ã©tÃ© oÃ¹ je suis devenue jolie",
     "episodesTraduits": [
       "S02E07",
       "S02E08",
@@ -713,7 +713,7 @@
       "S03E09"
     ],
     "dateDiffusion": "Avril 2024, avril 2025",
-    "coverUrl": "assets/covers/l_ete_ou_je_suis_devenue_jolie.jpg"
+    "coverUrl": "assets/covers/l_ete_ou_je_suis_devenue_jolie_v2.jpg"
   },
   {
     "plateforme": "AMAZON PRIME",
@@ -722,8 +722,8 @@
     "episodesTraduits": [
       "FILM ENTIER"
     ],
-    "dateDiffusion": "Août 2024",
-    "coverUrl": "assets/covers/holland.jpg"
+    "dateDiffusion": "AoÃ»t 2024",
+    "coverUrl": "assets/covers/holland_v2.jpg"
   },
   {
     "plateforme": "CANAL +",
@@ -737,7 +737,7 @@
       "S01E10"
     ],
     "dateDiffusion": "Octobre 2023",
-    "coverUrl": "assets/covers/anonyme.jpg"
+    "coverUrl": "assets/covers/anonyme_v2.jpg"
   },
   {
     "plateforme": "CANAL +",
@@ -748,17 +748,17 @@
       "S01E04",
       "S01E06"
     ],
-    "dateDiffusion": "Décembre 2023",
-    "coverUrl": "assets/covers/fallen.jpg"
+    "dateDiffusion": "DÃ©cembre 2023",
+    "coverUrl": "assets/covers/fallen_v2.jpg"
   },
   {
     "plateforme": "CANAL +",
     "categorie": "Doublage",
-    "titreProgramme": "Hôtel Sinestra",
+    "titreProgramme": "HÃ´tel Sinestra",
     "episodesTraduits": [
       "FILM ENTIER"
     ],
     "dateDiffusion": "Mai 2024",
-    "coverUrl": "assets/covers/hotel_sinestra.jpg"
+    "coverUrl": "assets/covers/hotel_sinestra_v2.jpg"
   }
 ]
